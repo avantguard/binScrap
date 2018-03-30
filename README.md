@@ -1,2 +1,5 @@
-# binscrap.py
-See which coins were recently added to Binance with this small, but effective scraper.
+binScrappy is a simple web scraping tool, that:
+
+* Scrapes the Binance website for newly added coins
+
+b1nkh4x0r@gmail.com
