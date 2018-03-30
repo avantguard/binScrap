@@ -13,4 +13,4 @@ binScrap.py is a simple web scraping tool that scrapes the Binance website for n
 
 ### Contact
 
-If you want to report a bug or give suggestions regarding further development, please drop me a few lines a b1nkh4x0r@gmail.com
+If you want to report a bug or give suggestions regarding further development, please drop me a few lines at b1nkh4x0r@gmail.com
