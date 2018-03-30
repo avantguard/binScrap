@@ -14,3 +14,8 @@ sleep(1)
 
 for result in results:
     print(result.text.strip())
+sleep(1)
+
+print("===============================")
+print(" Thanks for using binScrap V1! ")
+print("===============================")
