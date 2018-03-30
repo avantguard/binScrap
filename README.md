@@ -5,6 +5,6 @@ binScrap.py is a simple web scraping tool that scrapes the Binance website for n
 ## Requirements
 
 * pip install beautifulsoup4
-* pip install requests
+* pip install requests<br />
 
 b1nkh4x0r@gmail.com
