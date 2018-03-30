@@ -13,4 +13,4 @@ print("===============================")
 sleep(1)
 
 for result in results:
-    print(result.text)
+    print(result.text.strip())
